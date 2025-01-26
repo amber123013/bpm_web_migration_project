@@ -4,5 +4,5 @@ declare module 'vue' {
     DictTag: typeof import('@/components/DictTag')['DictTag']
   }
 }
-/** 测试合并 */
+
 export {}

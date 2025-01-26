@@ -209,7 +209,7 @@ declare module 'vue' {
     VerifySlide: typeof import('./../components/Verifition/src/Verify/VerifySlide.vue')['default']
     VerticalButtonGroup: typeof import('./../components/VerticalButtonGroup/index.vue')['default']
     WebTypes: typeof import('./../../web-types.json')['default']
-    Workspace: typeof import('./../../.idea/workspace.xml')['default']
+    Workspace: typeof import('./../../.idea/workspace.xml~')['default']
     XButton: typeof import('./../components/XButton/src/XButton.vue')['default']
     XTextButton: typeof import('./../components/XButton/src/XTextButton.vue')['default']
     '工作流设计器Bpmn': typeof import('./../../.image/工作流设计器-bpmn.jpg')['default']
